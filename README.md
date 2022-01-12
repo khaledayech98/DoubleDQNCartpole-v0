@@ -2,8 +2,8 @@
 > Double DQN OpenAI Gym Cartpole 
 
 
-Project developed by : 
-    * Khaled AIECH
+Project developed by :   
+    * Khaled AIECH  
     * Alaeddine JOHMANI
 
 
