@@ -5,4 +5,4 @@ the CartPole-v0 openAI Gym environment.
 
 
 
-![The CartPole-v0 Environment](images/cartpole.PNG)
+![The CartPole-v0 Environment](Images/cartpole.PNG)
