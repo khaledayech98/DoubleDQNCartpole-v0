@@ -18,7 +18,7 @@ To install it, you need to have at least Python 3.5+ installed. Simply install g
     `pip` install gym
     
     
-The OpenAI Gym Cartpole-v0 environment Description :  
+The OpenAI Gym Cartpole-v0 environment description :  
   
       A pole is attached by an un-actuated joint to a cart, which moves along
         a frictionless track. The pendulum starts upright, and the goal is to
