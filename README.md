@@ -1,6 +1,13 @@
 
 > Double DQN OpenAI Gym Cartpole 
 
+
+Project developed by : 
+    * Khaled AIECH
+    * Alaeddine JOHMANI
+
+
+
   In this project, we implemented the Double Deep QNetwork reinforcment learning algorithm on 
   the CartPole-v0 openAI Gym environment.
   
