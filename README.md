@@ -27,7 +27,8 @@ The OpenAI Gym Cartpole-v0 environment Description :
           
           
 We tested the work, and obtained the following result plot: 
-![Result Plot Bar](Images/TestPlot.PNG)  
+
+![Result Plot Bar](https://github.com/khaledayech98/DoubleDQNCartpole-v0/blob/master/Images/TestPlot.png)  
 
 PS : In order to test the work, you need to install these following python libraries :   
 * gym
