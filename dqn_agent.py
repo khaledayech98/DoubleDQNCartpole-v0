@@ -11,6 +11,7 @@ import torch.optim as optim
 #endregion
 
 #region hyperparameters
+
 BUFFER_SIZE = int(1e5)  # replay buffer size
 BATCH_SIZE = 64         # minibatch size
 GAMMA = 0.99            # discount factor
@@ -32,7 +33,6 @@ class Agent():
         #Q-NETWORK
         self.qnetwork_local = QNetwork(state_size,action_size, seed).to(device)
         self.qnetwork_target = QNetwork(state_size,action_size, seed).to(device)
-        self.qnetwork_Khaled = QNetwork(state_size,action_size, seed).to(device)
 
         self.optimizer = optim.Adam(self.qnetwork_local.parameters(), lr=LR)
 
